@@ -175,6 +175,7 @@ html {
 }
 /* LINK */
 a:link {
+  color:#669900;
   text-decoration: none;
 }
 a:visited {
