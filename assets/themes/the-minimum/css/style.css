@@ -208,7 +208,7 @@ pre {
 --------------------------------------------------------------------------------- */
 .the-header .logo {
   font-family: Roboto, WenQuanYi Micro Hei, "微软雅黑";
-  font-weight: 500;
+  font-weight: 300;
   margin: 0;
 }
 .the-header .logo a:visited {
