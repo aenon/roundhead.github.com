@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Idioms"
+description: ""
+category: ""
+tags: []
+---
+{% include JB/setup %}
