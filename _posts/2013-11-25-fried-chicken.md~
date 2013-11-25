@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Fried Chicken"
+description: ""
+category: ""
+tags: []
+---
+{% include JB/setup %}
