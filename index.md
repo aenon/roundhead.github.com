@@ -43,6 +43,8 @@ tagline: Supporting tagline
 
 ## 朋友们
 
+[小金鹿(aenon)](http://aenon.me)——以前似乎有蛮多有意思的照片，现在已经沦为本博客一般的水平了啧啧。
+
 广告位招租
 
 
