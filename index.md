@@ -31,6 +31,7 @@ tagline: Supporting tagline
 
 我喜欢品钦！最近在看Joyce的A Portrait of the Artist as a Young Man.
 
+今天刚看完了上面那本书，感觉乔伊斯真的是大毒草。
 
 ### ACGN
 
