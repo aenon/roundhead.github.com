@@ -56,7 +56,7 @@ tagline: Supporting tagline
 
 ## 朋友们
 
-[小金鹿(aenon)](http://aenon.me)——以前似乎有蛮多有意思的照片，现在已经沦为本博客一般的水平了啧啧。
+[小金鹿(aenon)](https://ssngiraffe.wordpress.com/)——以前似乎有蛮多有意思的照片，现在已经沦为本博客一般的水平了啧啧。
 
 现在主要在微信朋友圈卖萌了……
 
